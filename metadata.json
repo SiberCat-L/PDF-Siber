@@ -1,0 +1,6 @@
+{
+  "name": "LembarPDF",
+  "description": "Aplikasi editor PDF untuk mengunggah dokumen PDF, mengubahnya menjadi free text yang dapat diedit, menyimpan perubahan, dan mengunduh kembali sebagai PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
